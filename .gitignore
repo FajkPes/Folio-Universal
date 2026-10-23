@@ -1,0 +1,5 @@
+/node_modules/
+/build-tools/node_modules/
+/test-results/
+/.codex-remote-attachments/
+__pycache__/

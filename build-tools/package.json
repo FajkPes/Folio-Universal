@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.1",
+    "mammoth": "^1.13.0",
+    "terser": "^5.51.2",
+    "word-extractor": "^1.0.4"
+  }
+}
