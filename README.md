@@ -20,6 +20,10 @@ Use **Export library** and **Restore backup** before moving to another browser o
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Folio-Universal/releases)
 
+## Reading and keeping your place
+
+Folio combines chapter navigation, search, folding and a remembered reading position in the same interface for several document types. Its library can hold ten documents, four of which can be pinned. Pinned items are protected from automatic replacement by the app, not from browser-storage deletion. Export a library backup before clearing browser data or changing browser or device.
+
 ## Credits
 
 **Idea, concept and design:** FajkPes  
