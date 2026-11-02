@@ -19,3 +19,8 @@ Download the ZIP from [Releases](https://github.com/FajkPes/Folio-Universal/rele
 Use **Export library** and **Restore backup** before moving to another browser or computer: the library belongs to the browser's storage, not the HTML file. PDF OCR and form editing are not provided, and DOCX layout is adapted for reading rather than reproduced exactly. The current interface is in Czech.
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Folio-Universal/releases)
+
+## Credits
+
+**Idea, concept and design:** FajkPes  
+**Coding:** ChatGPT Codex, Claude and Google Antigravity
